@@ -1,0 +1,8 @@
+com\workflowReal\pocs\springbot\Services\AutoService.class
+com\workflowReal\pocs\springbot\Controllers\AutoController.class
+com\workflowReal\pocs\springbot\Persistence\MarcaDao.class
+com\workflowReal\pocs\springbot\Persistence\AbstractDao.class
+com\workflowReal\pocs\springbot\Persistence\AutoDao.class
+com\workflowReal\pocs\springbot\Entities\Marca.class
+com\workflowReal\pocs\springbot\App.class
+com\workflowReal\pocs\springbot\Entities\Auto.class
